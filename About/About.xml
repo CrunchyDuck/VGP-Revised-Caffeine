@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetadata>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+  <name>VGP Revised Caffeine</name>
+  <author>CrunchyDuck</author>
+  <description>Returns caffeine to it's original rest value (20% rest), adds in caffeine (coffee) tolerance and addiction, and allows you to assign caffeine intake in a drug policy.
+
+From the moment I began using caffeine in RimWorld, I saw the potential in it. As a (once) avid coffee drinker, I knew coffee well, both for better, and for worse.
+In the early days of VGP's coffee, it was far too powerful, which prompted me to make this mod to balance it out in a way that makes sense. Keeping the power, but at a cost.
+
+Now, your pawns will enjoy their cups of coffee a little too much, and become addicted if you use it too much. The chance to be addicted is quite low, and it takes a long time to build an addiction, though.
+Before this however, they'll build up a tolerance, making caffeine not as useful unless used in moderation.
+Details for this can be found on the workshop page, within the spoiler.</description>
+</ModMetadata>
